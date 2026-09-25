@@ -1,0 +1,19 @@
+# VojtaReality
+
+> Nabídky nemovitostí kanceláře VojtaReality.
+
+- Web: https://vojtareality.cz/
+
+## Nabídky (12)
+- Prodej chaty 84 m², pozemek 1411 m² — Stříbrné Hory, 3 630 000 Kč: prodej-chaty-84-m2-pozemek-1411-m2-1635504204/
+- Prodej chaty 144 m², pozemek 1301 m² — Hrubá Voda, 4 999 997 Kč: prodej-chaty-144-m2-pozemek-1301-m2-167609164/
+- Prodej rodinného domu 222 m², pozemek 328 m² — Hodolany, 13 150 000 Kč: prodej-rodinneho-domu-222-m2-pozemek-328-m2-2213294156/
+- Prodej bytu 2+kk 63 m² — Nová Ulice, 8 890 000 Kč: prodej-bytu-2-kk-63-m2-2756653132/
+- Prodej bytu 3+kk 51 m² — Nová Ulice, 8 890 000 Kč: prodej-bytu-3-kk-51-m2-3282903116/
+- Prodej bytu 2+1 58 m² — Nová Ulice, 4 990 000 Kč: prodej-bytu-2-1-58-m2-3440403276/
+- Prodej bytu 3+1 63 m² — Nová Ulice, 5 490 000 Kč: prodej-bytu-3-1-63-m2-3474436172/
+- Prodej bytu 2+1 44 m² — Nové Sady, 5 121 000 Kč: prodej-bytu-2-1-44-m2-3595292748/
+- Prodej bytu 2+1 55 m² — Klášterní Hradisko, 5 540 000 Kč: prodej-bytu-2-1-55-m2-3718545484/
+- Prodej bytu 3+kk 95 m² — obec Olomouc, 13 190 000 Kč: prodej-bytu-3-kk-95-m2-3885178956/
+- Prodej rodinného domu 160 m², pozemek 1494 m² — Cholina, 6 680 000 Kč: prodej-rodinneho-domu-160-m2-pozemek-1494-m2-533053516/
+- Prodej rodinného domu 48 m², pozemek 390 m² — Zvole, 1 611 500 Kč: prodej-rodinneho-domu-48-m2-pozemek-390-m2-97034316/
